@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshika Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/673cb61b-e08e-4148-b7b9-25aa752355be
-">
+<p>
+  <img align="right" src="https://github.com/user-attachments/assets/673cb61b-e08e-4148-b7b9-25aa752355be" alt="Demo GIF" width="400" height="250">
+</p>
 
 
 - 🌱 I’m currently learning **Java**
