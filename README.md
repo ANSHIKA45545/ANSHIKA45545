@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshika Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="![tenor](https://github.com/user-attachments/assets/e655e389-1ed4-4d6f-b577-d0b3e847915e)
+<img align="right" alt="coding" width="400" src="![tenor](https://github.com/user-attachments/assets/a4e3bc65-274e-4ccb-8e17-d6eb23f0c4a1)
+
 ">
 
 
