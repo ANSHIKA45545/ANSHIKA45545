@@ -3,9 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
 
-<img src="https://github.com/user-attachments/assets/673cb61b-e08e-4148-b7b9-25aa752355be" alt="Demo GIF" width="400" height="250">
-
-
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **React.js ,MongoDB**
@@ -13,6 +10,8 @@
 - 📫 How to reach me **yanshika216@gmail.com**
 
 - ⚡ Fun fact **I'm Engineer**
+
+<img src="https://github.com/user-attachments/assets/673cb61b-e08e-4148-b7b9-25aa752355be" alt="Demo GIF" width="400" height="250">
 
 <h5 align="left">Connect with me: https://www.linkedin.com/in/anshika-yadav-308b6127a/</h3>
 <p align="left">
