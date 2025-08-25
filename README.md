@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
-https://gifdb.com/images/high/work-from-home-cartoon-girl-itqlh2wrancv5z54.gif
+
+![tenor](https://github.com/user-attachments/assets/673cb61b-e08e-4148-b7b9-25aa752355be)
 
 - 🌱 I’m currently learning **Java**
 
