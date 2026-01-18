@@ -13,7 +13,6 @@
 - ⚡ Fun fact **I'm Engineer**
 
 
-<h5 align="left">Connect with me: https://www.linkedin.com/in/anshika-yadav-308b6127a/</h3>
 <p align="left">
 </p>
 
