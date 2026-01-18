@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshika Yadav</h1>
 <p>
-  <img align="right" src="https://github.com/user-attachments/assets/673cb61b-e08e-4148-b7b9-25aa752355be" alt="Demo GIF" width="400" height="200">
+  <img align="right" src="https://github.com/user-attachments/assets/673cb61b-e08e-4148-b7b9-25aa752355be" alt="Demo GIF" width="400" height="180">
 </p>
 
 
