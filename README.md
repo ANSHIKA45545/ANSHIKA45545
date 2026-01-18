@@ -4,9 +4,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **React.js ,MongoDB**
+- 💬 Ask me about **React.js ,MongoDB, Java**
 
 - 📫 How to reach me **yanshika216@gmail.com**
 
